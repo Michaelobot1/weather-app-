@@ -76,6 +76,11 @@ The Weather App provides real-time weather information for any location. It fetc
    ```
 5. Open a Pull Request.
 
+** Example
+
+![alt text](preview.jpg)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -83,5 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - [OpenWeatherMap](https://openweathermap.org/api) for providing the weather data.
-- 
+
 
