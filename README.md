@@ -78,7 +78,7 @@ The Weather App provides real-time weather information for any location. It fetc
 
 ** Example
 
-![alt text](preview.jpg)
+![alt text](Screenshot_20240909-122333_1.jpg)
 
 
 ## License
